@@ -1,0 +1,1 @@
+This project is about learning the emacs commands and and how they work
