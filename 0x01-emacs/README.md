@@ -1,1 +1,1 @@
-This project is about learning the emacs commands and and how they work
+This project is about to learning to use emacs
